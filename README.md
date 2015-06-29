@@ -1,2 +1,2 @@
 # pystat
-Statisrical project for Python
+Statistical project for Python
